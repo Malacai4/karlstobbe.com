@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- CSS files -->
+    <link rel="stylesheet" href="./styles/base.css">
+    <link rel="stylesheet" href="./styles/home-sections.css">
+    <link rel="stylesheet" href="./styles/main-page-header.css">
+
+    <!-- Head -->
+    <?php include './includes/head.php';?>
+
+    <!-- Title -->
+    <title>Karl Stobbe - Violinist</title>
+  </head>
+  <body>
+    <!-- Header -->
+    <?php include './includes/main-header.php';?>
+    <!-- Navbar -->
+    <?php include './includes/nav.php';?>
+
+    <!-- Page Content -->
+    <section id="home">
+      <h1 class="name">HOME</h1>
+
+      <div class="content">
+        <div class="quotes">
+          <i>
+            "a master soloist, recalling the golden age of violin playing…
+            producing a breathtaking range of tone colours.”<br />
+          </i>
+          <p>(Sunday Times)<br /><br /></p>
+          <i>
+            “a clinic in the art of violin playing… a performer who compels his
+            listeners.”<br />
+          </i>
+          <p>(Winnipeg Free Press)<br /><br /></p>
+          <i>“an artist with soulful musicianship.”<br /></i>
+          <p>(San Francisco Classical Voice)<br /><br /></p>
+          <i>
+            “full of spirit and energy… exciting, fearless…”<br />
+          </i>
+          <p>(Gramophone Magazine)<br /><br /></p>
+        </div>
+        <img src="./styles/images/violins/Lupot-Front-&-Back.png" alt="" />
+      </div>
+    </section>
+
+    <!-- 600, 906 _ 600, 848 _ 600, 828 _ 391, 500 -->
+    <section id="about">
+      <h1 class="name">ABOUT</h1>
+
+      <div class="content">
+        <p style="text-align: justify;">
+          <img
+            src="./styles/images/photos/full-version/1-JudyBandsmer_PaintbrushPhotography.jpg"
+            alt=""
+            style="float: left; margin-right: 20px;"
+          />
+          
+          <b>Karl Stobbe, Violinist</b>
+          <br />
+          <br />
+          Karl Stobbe is recognized as one of Canada’s most accomplished and
+          diverse violinists, noted for his generous, rich sound, and long,
+          poignant phrasing. As an orchestra director, concertmaster, soloist,
+          or chamber musician, he has been an audience favorite in small
+          settings and large venues. Avie Records’ recording of Karl performing
+          Ysaÿe’s Solo Violin Sonatas was nominated for a JUNO Award, and
+          received worldwide attention, including London’s Sunday Times who
+          called Karl “a master soloist, recalling the golden age of violin
+          playing... producing a breathtaking range of tone colours.” Pursuing
+          his life-long love of the music for solo violin, Karl has recently
+          created an online concert series featuring all the Sonatas and
+          Partitas for Solo Violin by J.S. Bach. He has performed in North
+          America’s most famous concert halls, including New York’s Carnegie
+          Hall and Boston’s Jordan Hall, and has shared the stage with some of
+          the most important and eclectic violinists of our day, from James
+          Ehnes to Mark O’Connor.<br /><br />www.karlstobbe.com
+        </p>
+
+        <div class="btns">
+          <a href="./photogallery.php" class="more-btn">Photo gallery...</a>
+          <a href="./about.php" class="more-btn">Read full bio here...</a>
+          <a href="./instruments.php" class="more-btn">My instruments...</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="online-concerts">
+      <h1 class="name">ONLINE CONCERTS</h1>
+
+      <div class="content">
+        <p style="text-align: justify; margin: 0 2vh">
+          <iframe
+            src="https://player.vimeo.com/video/486066323"
+            frameborder="0"
+            allow="autoplay; fullscreen"
+            class="main-trailer"
+            style="float: left; margin-right: 20px"
+          ></iframe>
+          2020 saw the start of <i>Karl’s Online Concert Series</i> – a series
+          of six concerts where Karl talks about and plays his video recordings
+          of all of the Bach Unaccompanied Violin Sonatas and Partitas, paired
+          with another piece for solo violin. One of the great things about
+          these concerts and the online concert experience is their intimacy.
+          Space is limited to ensure there is plenty of chance to talk
+          personally, ask questions, learn a few things, and listen to some
+          great music.<br /><br />Classical music performers, presenters, and
+          audiences are learning to exist in both the live and digital world in
+          fun, new ways. Providing an online concert experience as a series, for
+          celebrations, or other events, is a refreshing, energizing addition to
+          the concert format in a time when our neighbours and fellow music
+          lovers can just as easily be from the other side of the world as they
+          can be from down the street. Being innovative and exciting online is
+          already proving to be just as important as being in the concert
+          hall.<br /><br />Interested in attending one of Karl’s upcoming online
+          concerts?
+        </p>
+
+        <div class="btns">
+          <a href="./onlineconcerts.php" class="more-btn">Check it out...</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="media">
+      <h1 class="name">MEDIA</h1>
+
+      <div class="content">
+        <div class="row">
+          <iframe
+            src="https://player.vimeo.com/video/496468315"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          ></iframe>
+          <iframe
+            src="https://player.vimeo.com/video/496470126"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          ></iframe>
+        </div>
+
+        <div class="btns">
+          <a href="./media.php" class="more-btn">View more...</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="upcoming-concerts">
+      <div class="remove">
+        <h1 class="name">UPCOMING CONCERTS</h1>
+
+        <div class="content">
+          <p class="title-thing">
+            <b>
+              Tickets are on sale for February’s installment of Karl’s Online
+              Concert Series via Zoom. Tickets are $20 per household per concert,
+              or $100 for all 6 – (a free, at home, Valentine’s date!) Contact
+              <a href="mailto:karlstobbe@karlstobbe.com" target="_blank"
+                >karlstobbe@karlstobbe.com</a
+              >
+              for more information. Check out the Online Concerts page for more
+              details.
+            </b>
+          </p>
+
+          <div class="top">
+            <div class="the-concerts">
+              <br /><br />
+              <p>
+                February dates:<br /><br />
+                Two concerts per day – one at 8:30pm EST, and one at 8:00pm
+                PST.<br /><br /><br />
+
+                <i>
+                  Feb. 12 th Concert 1:<br /><br />
+                  - Prokofiev Sonata for Solo Violin<br /><br />
+
+                  - Bach Sonata No. 1 in G Minor<br /><br /><br />
+
+                  Feb. 14 th Concert 2:<br /><br />
+
+                  - Ysaÿe Sonata No. 4 in E Minor<br /><br />
+
+                  - Bach Partita No. 1 in B Minor<br /><br /><br />
+
+                  Feb. 17 th Concert 3:<br /><br />
+
+                  - Bartok Sonata for Solo Violin<br /><br />
+
+                  - Bach Sonata No. 2 in A Minor<br /><br /><br />
+
+                  Feb. 19 th Concert 4:<br /><br />
+
+                  - Paganini Caprice No. 9 & 17<br /><br />
+
+                  - Bach Partita No. 2 in D Minor<br /><br /><br />
+
+                  Feb. 22 nd Concert 5:<br /><br />
+
+                  - Biber Passacaglia for Solo Violin<br /><br />
+
+                  - Bach Sonata No. 3 in C Major<br /><br /><br />
+
+                  Feb. 24 th Concert 6:<br /><br />
+
+                  - Oesterle Stand Still for Solo Violin<br /><br />
+
+                  - Bach Partita No. 3 in E Major<br /><br />
+                </i>
+              </p>
+            </div>
+
+            <iframe
+              src="https://player.vimeo.com/video/486066323"
+              frameborder="0"
+              allow="autoplay; fullscreen"
+            ></iframe>
+          </div>
+        </div>
+      </div>
+
+      <!-- <p class="link-titles"><b>Some Performance Partners</b></p> -->
+      <h1 class="name">Some Performance Partners</h1>
+
+      <div class="btns">
+        <a href="https://www.themco.ca/" target="_blank" class="more-btn"
+          >The Manitoba Chamber Orchestra</a
+        >
+        <br />
+        <a href="https://wso.ca/" target="_blank" class="more-btn"
+          >The Winnipeg Symphony Orchestra</a
+        >
+        <br />
+        <a href="http://www.wcms.mb.ca/" target="_blank" class="more-btn"
+          >The Winnipeg Chamber Society</a
+        >
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="btns">
+        <a href="./contact.php" class="more-btn">Contact</a>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <?php include './includes/footer.php';?>
+
+    <!-- Javascript -->
+    <script src="./scripts/app.js"></script>
+    <script>
+      changeImage();
+    </script>
+  </body>
+</html>
