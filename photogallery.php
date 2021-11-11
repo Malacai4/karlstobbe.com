@@ -28,6 +28,8 @@
     <section class="photo-gallery">
       <h1 class="name">PHOTO GALLERY</h1>
 
+      <i>(click on the images to view high quality version)</i>
+
       <div class="small-images">
         <a
           href="./styles/images/photos/full-version/1-JudyBandsmer_PaintbrushPhotography.jpg"
