@@ -13,7 +13,7 @@ $subject = "$name contacted you from karlstobbe.com";
 
 $headers = "From: $email";
 
-mail("karlstobbe@karlstobbe.com", $subject, $message, $headers);
+mail("karlstobbe@gmail.com", $subject, $message, $headers);
 
 header("Location: contact.html");
 ?>
