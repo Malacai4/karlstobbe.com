@@ -70,7 +70,7 @@
         </div>
       </form>
 
-      <p><br />Or send an email to: karlstobbe@karlstobbe.com</p>
+      <p><br />Or send an email to: karlstobbe@gmail.com</p>
     </section>
 
     <!-- Footer -->
