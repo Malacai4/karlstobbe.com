@@ -1,0 +1,23 @@
+.other-albums img {
+  width: 25%;
+}
+
+.latest img {
+  width: 30%;
+}
+
+.latest,
+.other-albums {
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 5vh 0;
+}
+
+.album {
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+}
