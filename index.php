@@ -91,7 +91,38 @@
       </div>
     </section>
 
-    <section id="online-concerts">
+    <section id="recordings">
+      <h1 class="name">RECENT RECORDINGS</h1>
+
+      <div class="content">
+        <p style="text-align: justify; margin: 0 2vh">
+          <img
+            src="styles/images/BachBartókAlbumCover.jpeg"
+            class="album-cover"
+            style="float: left; margin-right: 20px"
+          ></img>
+          It would be hard to overestimate the influence that the Sonatas and Partitas have had on the 
+          violin world over 300 years – and many other wonderful pieces have been written for solo 
+          violin, with reference and reverence to Bach. Karl has often thought that it would be interesting 
+          and satisfying on both an intellectual and emotional level to pair the Bach Sonatas and Partitas 
+          with some of these other works, to hear some of the creativity and beauty that Bach inspired in others.<br /><br />
+          With that in mind, the Bach C Major Sonata and Bartok Solo Sonata seemed like an ideal place 
+          to start. Bartok is deeply inspired by the Bach C Major, and beyond the very different 
+          soundscapes that they employ, the compositional technique and interplay between these two 
+          great works is wonderful to behold. These two works encompass enormous musicality and 
+          expression, from the most virtuosic and extroverted to the most introspective delicacy. It’s a 
+          musical pairing that brings out their beauty out in new and unexpected ways.
+        </p>
+
+        <p class="quote">"A highly emotional and illustrative experience that packs a punch!" - La Scena Musicale</p>
+
+        <div class="btns">
+          <a href="./recordings.php" class="more-btn">Check it out...</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- <section id="online-concerts">
       <h1 class="name">ONLINE CONCERTS</h1>
 
       <div class="content">
@@ -126,7 +157,7 @@
           <a href="./onlineconcerts.php" class="more-btn">Check it out...</a>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <section id="media">
       <h1 class="name">MEDIA</h1>

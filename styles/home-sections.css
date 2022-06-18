@@ -12,11 +12,16 @@ img {
 #about .content,
 #contact .content,
 #media .content,
-#online-concerts .content {
+#online-concerts .content,
+#recordings .content {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+#recordings .quote {
+  padding-top: 10vh;
 }
 
 #online-concerts .main-trailer {

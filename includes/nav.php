@@ -15,7 +15,7 @@
       <li><a href="./about.php">About</a></li>
 
       <li>
-        <a href="./onlineconcerts.php">Online Concerts</a>
+        <a href="./recordings.php">Recordings</a>
       </li>
 
       <li><a href="./media.php">Media</a></li>
