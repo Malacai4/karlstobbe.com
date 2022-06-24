@@ -27,24 +27,26 @@
     <section class="recordings">
       <h1 class="name">RECORDINGS</h1>
 
-      <div class="latest" style="background-color: red">
-
-        <div class="album" style="background-color: blue">
+      <div class="latest">
+        <div class="album">
           <img src="styles/images/BachBartókAlbumCover.jpeg" alt="">
-          <a href="https://leaf-music.lnk.to/ks2022WE">https://leaf-music.lnk.to/ks2022WE</a>
+          <p>Bach & Bartók<br>Karl Stobbe</p>
+          <p><a href="https://leaf-music.lnk.to/ks2022WE" target="_blank">Leaf Music</a> | <a href="styles/images/BachBartokBookletFinal-Apr15.pdf" target="_blank">Bach/Bartok Digital Booklet</a></p>
         </div>
 
       </div>
-      <div class="other-albums" style="background-color: green">
+      <div class="other-albums">
 
-        <div class="album" style="background-color: purple">
+        <div class="album">
           <img src="styles/images/AV2310.jpeg" alt="">
-          <p>Apple | Itunes</p>
+          <p>Ysaÿe Sonatas for Solo Violin<br>Karl Stobbe</p>
+          <p><a href="https://music.apple.com/ca/album/ysa%C3%BFe-sonatas-for-solo-violin/875501490" target="_blank">Apple</a> | <a href="https://open.spotify.com/album/0EXw3WDCbAS43fE23ViuZ8" target="_blank">Spotify</a></p>
         </div>
 
-        <div class="album" style="background-color: yellow">
+        <div class="album">
           <img src="styles/images/Leclair Cover.jpeg" alt="">
-          <p>Apple | Itunes</p>
+          <p>Six Sonatas for Two Violins<br>Gwen Hoebig & Karl Stobbe</p>
+          <p><a href="https://music.apple.com/ca/album/leclair-six-sonatas-for-two-violins-op-3/1328606003" target="_blank">Apple</a> | <a href="https://open.spotify.com/album/5JFhV474yN3V3zdreSTj0q" target="_blank">Spotify</a></p>
         </div>
 
       </div>

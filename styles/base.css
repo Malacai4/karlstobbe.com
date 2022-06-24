@@ -71,15 +71,15 @@ section .name {
   font-size: 32px;
 }
 
-section a {
+section .links a {
   color: var(--light-blue);
 }
 
-section a {
+section .links a {
   transition: color 0.3s;
 }
 
-section a:hover {
+section .links a:hover {
   color: var(--light-grey);
 }
 
